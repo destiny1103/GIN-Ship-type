@@ -8,7 +8,8 @@ Ship type identification model
 * data  
 Upload the data to the data folder with the data folder name xxx;  
 Store the prepared data in the raw folder;  
-The data in the repository is used only as a display of where the data files are stored (the data folder is on the same level as the Ship type identification folder);
+The data in the repository is used only as a display of where the data files are stored (the data folder is on the same level as the Ship type identification folder);  
+Description of model input data (raw folder): https://chrsmrrs.github.io/datasets/docs/format/
 
 ## Requirements  
 requirements.txt
