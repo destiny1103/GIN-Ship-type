@@ -1,4 +1,4 @@
-Raw data will be uploaded after the paper is online.  
+:exclamation:Note: Raw data will be uploaded after the paper is online.  
 
 ## GIN-Ship-type  
 A GNN graph representation learning method for AIS ship type identification  
