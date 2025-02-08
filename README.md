@@ -1,7 +1,7 @@
 :exclamation:Note: Raw data will be uploaded after the paper is online.  
 
 ## GIN-Ship-type  
-A GNN graph representation learning method for AIS ship type identification  
+A Graph Representation Learning Approach for Imbalanced Ship Type Recognition Using AIS Trajectory Data
 ## Description
 * Data preparation  
 Data preparation phase, which contains AIS data mapping, data cleaning, feature extraction, and trajectory map construction.  
