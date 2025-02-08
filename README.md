@@ -18,7 +18,7 @@ requirements.txt
 ## Data & Result
 * Data & Result
 https://mega.nz/folder/urBwSA4A#cq07G_AtZa305MdXhOAb-Q
-* Data geographical scope  
+* Data geographical scope ⬇ 
 <p align = "left">    
 <img  src="https://github.com/destiny1103/GIN-Ship-type/blob/main/study%20area.png" width="600" />
 </p>
