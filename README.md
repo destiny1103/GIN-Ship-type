@@ -19,7 +19,7 @@ requirements.txt
 https://mega.nz/folder/urBwSA4A#cq07G_AtZa305MdXhOAb-Q
 
 <p align = "left">    
-<img  src="https://github.com/destiny1103/DT-GNN/assets/127482560/4a36c3a5-3920-419b-a00f-efe79172c4be" width="600" />
+<img  src="https://github.com/destiny1103/GIN-Ship-type/blob/main/study%20area.png" width="600" />
 </p>
 
 ## RECOGNITION PRECISION, RECALL, F1-SCORE (%) FOR EACH TYPE OF SHIP    
