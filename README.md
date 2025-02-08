@@ -19,8 +19,7 @@ requirements.txt
 https://mega.nz/folder/urBwSA4A#cq07G_AtZa305MdXhOAb-Q
 
 
-## Result  
-RECOGNITION PRECISION, RECALL, F1-SCORE (%) FOR EACH TYPE OF SHIP  
+## RECOGNITION PRECISION, RECALL, F1-SCORE (%) FOR EACH TYPE OF SHIP    
 
 <table border=0 cellpadding=0 cellspacing=0 width=690 style='border-collapse:
  collapse;table-layout:fixed;width:520pt'>
