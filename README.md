@@ -30,8 +30,8 @@ https://mega.nz/folder/urBwSA4A#cq07G_AtZa305MdXhOAb-Q
  <tr height=19 style='height:14.0pt'>
   <td rowspan=2 height=38 class=xl65 width=69 style='height:28.0pt;width:52pt'></td>
   <td colspan=3 class=xl65 width=207 style='width:156pt'>Gulf of Mexico</td>
-  <td colspan=3 class=xl65 width=207 style='width:156pt'>New Jersey</td>
-  <td colspan=3 class=xl65 width=207 style='width:156pt'>West Coast</td>
+  <td colspan=3 class=xl65 width=207 style='width:156pt'>New Jersey Bight</td>
+  <td colspan=3 class=xl65 width=207 style='width:156pt'>United States West Coast</td>
  </tr>
  <tr height=19 style='height:14.0pt'>
   <td height=19 class=xl65 style='height:14.0pt'>Precision</td>
